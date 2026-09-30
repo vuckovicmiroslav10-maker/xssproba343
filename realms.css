@@ -1,0 +1,62 @@
+
+header{
+    background-color: grey;
+    padding: 10px;
+    margin: -10px;
+    margin-bottom: 10px;
+}
+
+
+body{
+    background-color: rgb(92, 62, 16);
+}
+
+h1 {
+    color: rgb(16, 181, 223);
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: greenyellow;
+}
+
+nav{
+    display: flex;
+    justify-content: right;
+    justify-content: space-between;
+
+}
+
+h2 {
+    color: green;
+}
+
+table, th, td{
+    border: solid;
+    border-color: grey;
+    border-radius: 3px;
+}
+
+th {
+    color: green;
+}
+td  {
+    color: greenyellow;
+}
+
+footer{
+    color: gray;
+    background-color: rgb(26, 20, 12);
+    padding: 10px;
+    margin: -10px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: right;
+    justify-content: space-between;
+
+}
+
+footer img{
+    width: 100px;
+}
